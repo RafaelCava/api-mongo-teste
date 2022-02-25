@@ -26,11 +26,11 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
-	🚧  api-mongo-teste 🚀 Em construção...  🚧
-</h4> 
+<h4 align="center">
+ 🚧  api-mongo-teste 🚀 Em construção...  🚧
+</h4>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
