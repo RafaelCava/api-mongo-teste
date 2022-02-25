@@ -1,39 +1,39 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Api_mongo" />
+<div align="center" id="top">
+  <img src="./.github/app.gif" alt="api-mongo-teste" />
 
   &#xa0;
 
-  <!-- <a href="https://api_mongo.netlify.com">Demo</a> -->
+  <!-- <a href="https://api-mongo-teste.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Api_mongo</h1>
+<h1 align="center">api-mongo-teste</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/RafaelCava/api_mongo?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/RafaelCava/api-mongo-teste?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/RafaelCava/api_mongo?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/RafaelCava/api-mongo-teste?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/RafaelCava/api_mongo?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/RafaelCava/api-mongo-teste?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/RafaelCava/api_mongo?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/RafaelCava/api-mongo-teste?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/RafaelCava/api_mongo?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/RafaelCava/api-mongo-teste?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/RafaelCava/api_mongo?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/RafaelCava/api-mongo-teste?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/RafaelCava/api_mongo?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/RafaelCava/api-mongo-teste?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Api_mongo 🚀 Em construção...  🚧
+	🚧  api-mongo-teste 🚀 Em construção...  🚧
 </h4> 
 
 <hr> -->
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
@@ -72,10 +72,10 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/RafaelCava/api_mongo
+$ git clone https://github.com/RafaelCava/api-mongo-teste
 
 # Entre na pasta
-$ cd api_mongo
+$ cd api-mongo-teste
 
 # Instale as dependências
 $ yarn
@@ -89,7 +89,6 @@ $ yarn start
 ## :memo: Licença ##
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
 Feito com :heart: por <a href="https://github.com/RafaelCava" target="_blank">RafaelCava</a>
 
